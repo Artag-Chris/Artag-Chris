@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://www.supergeek.cl/noticias/site/artic/20220924/imag/foto_0000000520220924112238/SAMURAIX.jpg"> 
+    <img width="200" src="https://cinepop.com.br/wp-content/uploads/2022/12/o-anime-rurouni-kenshin-revelou-um-novo-trailer-para-seu-remake-1024x576.jpg"> 
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
