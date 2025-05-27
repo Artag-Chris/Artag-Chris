@@ -7,7 +7,7 @@
 </p>
 
 
-<div size='20px'> Hi! My name is Christian Henao. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Christian Henao. I am a software developer passionate about building efficient, scalable and secure technology solutions. Throughout my career, I have worked in the development of backend, frontend and mobile systems, integrating various technologies and architectures such as microservices, Kubernetes and cloud services. I specialize in the design and implementation of robust APIs, payment platforms, messaging and data management systems, always ensuring optimal performance and ease of integration. I have experience in mobile development with Flutter and React Native, as well as in creating intuitive interfaces that optimize the user experience.
 </div>
 
 <h2> About Me <img src ="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236524/github-icon-md.png" width = 50px></h2>
