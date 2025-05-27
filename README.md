@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning Microservices, kubernetes, Google store
   
-- 💬 Ask me about Sql, Architecture, JavaScript
+- 💬 Ask me about software Architecture, TypeScript, videoGames
   
 - ⚡ Fun fact: I like bluey.
 
